@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:51:05.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ffmPfsaaNbyQ1-bOzfv1" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:51:31.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vbQoarILeD7B6Rf1PMwc" version="24.0.7" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1091" dy="1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
         <mxCell id="241wLx_xNC55v7J6Il0q-503" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=8;fontColor=default;fontStyle=1;labelBackgroundColor=none;" edge="1" parent="241wLx_xNC55v7J6Il0q-246" source="241wLx_xNC55v7J6Il0q-483" target="241wLx_xNC55v7J6Il0q-502">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="241wLx_xNC55v7J6Il0q-483" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopStandard=1;isLoopSub=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="241wLx_xNC55v7J6Il0q-246">
+        <mxCell id="241wLx_xNC55v7J6Il0q-483" value="Notificar por plataforma" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopStandard=1;isLoopSub=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="241wLx_xNC55v7J6Il0q-246">
           <mxGeometry x="550" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="241wLx_xNC55v7J6Il0q-484" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=8;fontColor=default;fontStyle=1;labelBackgroundColor=none;" edge="1" parent="241wLx_xNC55v7J6Il0q-246" source="241wLx_xNC55v7J6Il0q-479" target="241wLx_xNC55v7J6Il0q-483">
