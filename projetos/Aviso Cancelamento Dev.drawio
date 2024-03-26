@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T19:46:20.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IM91tZJrhU0xo9To7MZU" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T19:46:33.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7bmP_93s2VO1WQGEEqcU" version="24.0.7" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="2029" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3550" dy="2765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -413,7 +413,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="241wLx_xNC55v7J6Il0q-1003" value="Cancelamento de Passagem" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;rounded=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="241wLx_xNC55v7J6Il0q-977">
-          <mxGeometry x="330" y="105" width="120" height="80" as="geometry" />
+          <mxGeometry x="265" y="105" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="241wLx_xNC55v7J6Il0q-978" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;rounded=1;shadow=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="241wLx_xNC55v7J6Il0q-975">
           <mxGeometry x="2280" width="330" height="290" as="geometry">
