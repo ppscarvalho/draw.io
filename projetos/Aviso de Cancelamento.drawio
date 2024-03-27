@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T12:38:11.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="28rwuvHWkIl2HRVuyJJ1" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T13:02:59.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zDf_9ulgr17t-qAolnEo" version="24.2.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2404" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2305" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,7 +35,7 @@
         </mxCell>
         <object placeholders="1" c4Type="Admin" c4Container="Container" c4Technology="e.g. JavaScript, Angular etc." c4Description="Sistema de administração do Grupo JCA" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rZhwr0CRrRJDCK31wP1V-17">
           <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="150" y="350" width="240" height="160" as="geometry" />
+            <mxGeometry x="150" y="360" width="240" height="160" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="rZhwr0CRrRJDCK31wP1V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZhwr0CRrRJDCK31wP1V-15" target="rZhwr0CRrRJDCK31wP1V-17" edge="1">
@@ -57,6 +57,14 @@
         <mxCell id="rZhwr0CRrRJDCK31wP1V-47" value="Ler e escrevem em" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rZhwr0CRrRJDCK31wP1V-41" vertex="1" connectable="0">
           <mxGeometry x="0.1458" relative="1" as="geometry">
             <mxPoint x="-14" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=12 12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZhwr0CRrRJDCK31wP1V-25" target="Wax3pSgX8jORdFltFTQ_-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="1110" />
+              <mxPoint x="1320" y="1110" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="JCA.Common.Sale.Api" c4Type="Container" c4Technology="e.g. SpringBoot, ElasticSearch, etc." c4Description="Description of container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rZhwr0CRrRJDCK31wP1V-25">
@@ -171,7 +179,7 @@
         </mxCell>
         <object placeholders="1" c4Type="RAbbitMQ" c4Container="Container" c4Technology="Masstransit" c4Description="Fila de processamento em segundo plano" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nb2TQYrW7q-DWO8Oj_TJ-2">
           <mxCell style="shape=cylinder3;size=15;direction=south;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="970" y="930" width="240" height="120" as="geometry" />
+            <mxGeometry x="970" y="950" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="nb2TQYrW7q-DWO8Oj_TJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;dashed=1;dashPattern=12 12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb2TQYrW7q-DWO8Oj_TJ-4" target="nb2TQYrW7q-DWO8Oj_TJ-2" edge="1">
@@ -196,6 +204,19 @@
         <mxCell id="8VAVAzCilWJxM4eUNis3-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;E-mail&lt;/h1&gt;&lt;p&gt;1. Cancelamento/Reembolso.&lt;br&gt;2. Preciso muito viajar&lt;br&gt;3. Remarcação sem custo&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2050" y="390" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=12 12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8VAVAzCilWJxM4eUNis3-14" target="rZhwr0CRrRJDCK31wP1V-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1890" y="810" />
+              <mxPoint x="690" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-29" value="Remarcação de Passagem sem custo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8VAVAzCilWJxM4eUNis3-28">
+          <mxGeometry x="0.0361" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Type="SPA" c4Container="Container" c4Technology="e.g. JavaScript, Angular etc." c4Description="Site de venda de passagens" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="8VAVAzCilWJxM4eUNis3-14">
           <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="1770" y="390" width="240" height="160" as="geometry" />
@@ -203,6 +224,38 @@
         </object>
         <mxCell id="8VAVAzCilWJxM4eUNis3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZhwr0CRrRJDCK31wP1V-44" target="8VAVAzCilWJxM4eUNis3-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;dashPattern=12 12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8VAVAzCilWJxM4eUNis3-14" target="rZhwr0CRrRJDCK31wP1V-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-18" value="Cancelamento/Reembolso Integral" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8VAVAzCilWJxM4eUNis3-17">
+          <mxGeometry x="-0.12" y="84" relative="1" as="geometry">
+            <mxPoint x="489" y="-64" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cancelamento/Reembolso Integral&lt;/h1&gt;&lt;p&gt;O cancelamento/Reembolso Integral deverá segui rigorosamente as regras escritas pela PO João Reis.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Deverá ser criado um novo handler para atender essa demanda. Esse novo Handler deverá seguir o padrão da ArchRef.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1230" y="341.5" width="400" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8VAVAzCilWJxM4eUNis3-14" target="rZhwr0CRrRJDCK31wP1V-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1890" y="900" />
+              <mxPoint x="910" y="900" />
+              <mxPoint x="910" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-21" value="Preciso muito viajar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8VAVAzCilWJxM4eUNis3-20">
+          <mxGeometry x="-0.8413" y="-14" relative="1" as="geometry">
+            <mxPoint x="-66" y="-94" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Preciso muito viajar&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1910" y="560" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8VAVAzCilWJxM4eUNis3-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Remarcação de Passagem sem custo&lt;/h1&gt;&lt;p&gt;A Remarcação de Passagem sem custo deverá atender as regras escritas pela PO João Reis.&lt;br&gt;&lt;br&gt;Deverá ser criado um novo handler para atender essa demanda. Esse novo Handler deverá seguir o padrão da ArchRef.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1880" y="790" width="320" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
